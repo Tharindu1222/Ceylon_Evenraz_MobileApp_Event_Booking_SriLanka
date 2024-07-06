@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "307743695700",
+    "project_id": "ceylon-5dbba",
+    "storage_bucket": "ceylon-5dbba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307743695700:android:b17f4f9916f929461edec1",
+        "android_client_info": {
+          "package_name": "com.example.ceylon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMCDJC824xBf7bPCbUIS52HNmCW21CvPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
